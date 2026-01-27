@@ -1,5 +1,5 @@
 DB_NAME = 'quiz_bot.db'
-API_TOKEN = '6014041947:AAF_4oQqgCNGSXddakvqpE6PmjXUhOCJ4ig'
+API_TOKEN = 'insert your bot token'
 
 quiz_data = [
     {
